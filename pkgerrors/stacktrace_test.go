@@ -7,8 +7,8 @@ import (
 	"regexp"
 	"testing"
 
+	"github.com/intellihr/zerolog"
 	"github.com/pkg/errors"
-	"github.com/rs/zerolog"
 )
 
 func TestLogStack(t *testing.T) {

@@ -21,8 +21,8 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/coreos/go-systemd/journal"
-	"github.com/rs/zerolog"
-	"github.com/rs/zerolog/internal/cbor"
+	"github.com/intellihr/zerolog"
+	"github.com/intellihr/zerolog/internal/cbor"
 	"io"
 	"strings"
 )
